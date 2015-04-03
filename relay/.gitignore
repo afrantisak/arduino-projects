@@ -1,0 +1,5 @@
+*~
+.pioenvs/
+env/
+.sconsign.dblite
+
